@@ -1,16 +1,13 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;I'm+Jhoan+Alzate;Software+Development+Student;Full+Stack+Developer+in+Training&center=true&width=380&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Jhoan+Alzate's+Profile!;Software+Development+Student;Full+Stack+Developer+in+Training&center=true&width=380&height=50">
 </div>
 
 <p align="center">
-  <a href="https://jhoan-alzate.netlify.app">
-    <img src="https://i.imgur.com/YCw47Dm.gif" alt="Coding gif" width="600">
-  </a>
+  <img src="https://i.imgur.com/wzTKdDt.gif" alt="Anime coding gif" width="500">
 </p>
 
-# 👨‍💻 Jhoan Alzate
-
-## 🚀 Software Development Student | 💻 Full Stack Developer in Training
+<h1 align="center">👨‍💻 Jhoan Alzate</h1>
+<h3 align="center">🚀 Software Development Student | 💻 Full Stack Developer in Training</h3>
 
 <p align="center">
   <a href="https://jhoan-alzate.netlify.app"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" /></a>&nbsp;
@@ -19,21 +16,28 @@
   <a href="https://github.com/jhoan-alzate"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
----
-
-### 🌟 About Me
-
-🎓 I'm currently studying Software Analysis and Development, passionate about creating efficient and innovative solutions.
-
-🔭 I'm working on expanding my skills in full-stack development and building exciting projects.
-
-🌱 I'm continuously learning and staying up-to-date with the latest technologies in the ever-evolving world of software development.
-
-💡 I love tackling complex problems and turning ideas into reality through code.
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=jhoan-alzate&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+</div>
 
 ---
 
-### 🛠️ Tech Stack
+<h2 align="center">🌟 About Me</h2>
+
+<p align="center">
+  🎓 Studying Software Analysis and Development<br>
+  🔭 Working on expanding my full-stack development skills<br>
+  🌱 Continuously learning and staying up-to-date with the latest technologies<br>
+  💡 Love tackling complex problems and turning ideas into reality through code
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100">
+</p>
+
+---
+
+<h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />&nbsp;
@@ -52,7 +56,7 @@
 
 ---
 
-### 📊 GitHub Stats
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jhoan-alzate&show_icons=true&theme=radical" alt="Jhoan's GitHub stats" />&nbsp;
@@ -65,7 +69,7 @@
 
 ---
 
-### 🌐 Check out my portfolio
+<h2 align="center">🌐 Check out my portfolio</h2>
 
 <p align="center">
   <a href="https://jhoan-alzate.netlify.app">
@@ -74,12 +78,6 @@
 </p>
 
 ---
-
-### 👁️ Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jhoan-alzate&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-</p>
 
 <div align="center">
 
