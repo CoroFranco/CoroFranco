@@ -40,7 +40,7 @@
 <h2 align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjM1MjBjZDk2NmZjZDg5NjFiZDg4NjE5ZjM5ZTRkYzIzYzM1NGZlNiZjdD1z/jTqfCm1C0BV5wmAhvR/giphy.gif" width="30"> About Me</h2>
 
 <p align="center">
-  Passionate about crafting elegant and efficient solutions through code. As a dedicated software development student, I'm constantly expanding my skills in full-stack development and building innovative projects. I thrive on solving complex problems and transforming ideas into reality.
+  I'm a Full Stack developer in training, currently studying Software Analysis and Development. During my studies, I have worked on several projects that have allowed me to develop skills in the design, development, and implementation of web applications. These projects have reinforced my ability to tackle complex problems, create innovative solutions, and work efficiently both on the frontend and the backend.
 </p>
 
 <details>
