@@ -43,17 +43,6 @@
   I'm a Full Stack developer in training, currently studying Software Analysis and Development. During my studies, I have worked on several projects that have allowed me to develop skills in the design, development, and implementation of web applications. These projects have reinforced my ability to tackle complex problems, create innovative solutions, and work efficiently both on the frontend and the backend.
 </p>
 
-<details>
-  <summary align="center">🌟 Click here for a surprise!</summary>
-  <br>
-  <p align="center">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjNjMjBjMjM1ZTM4ZTBmMzBjMzM1ZTM4ZTBmMzBjMzM1ZTM4ZTBmMzBjMw/3oKIPEqDGUULpEU0aQ/giphy.gif" width="300" alt="Surprise GIF">
-  </p>
-  <p align="center">
-    Thanks for checking out my profile! Here's a fun fact: I can solve a Rubik's cube in under 2 minutes! 🧊
-  </p>
-</details>
-
 <h2 align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzU2MzM1NjM2MzYzNjM1NjM2MzYzNjM1NjM2MzYzNjM1NjM2Mw/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> Tech Stack</h2>
 
 <div align="center">
